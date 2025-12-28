@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Full-stack development – mostly built solo  <br>🐍 Practical software development with Python & Django (backend)  <br>🌐 Frontend implementation including templates, JS, and UI logic  <br>🤖 B.Sc. student in Robotics & AI (distance learning)  <br>🖥️ Linux, Raspberry Pi, automation & self-hosting  <br>🧠 Systems thinking — clarity over complexity  <br>📚 Clean code, solid documentation, reproducible setups  <br>🌙 Most productive late at night  <br>✝️ My faith shapes my values, not my code style
+🧑‍💻 Full-stack development – mostly built solo  <br>🐍 Practical software development with Python & Django (backend)  <br>🌐 Frontend implementation including templates, JS, and UI logic  <br>🤖 B.Sc. student in Robotics & AI (distance learning)  <br>🖥️ Linux, Raspberry Pi, automation & self-hosting  <br>🧠 Systems thinking — clarity over complexity  <br>📚 Clean code, solid documentation, reproducible setups  <br>🌙 Most productive late at night
 
 
 ## 🌐 Socials:
