@@ -6,6 +6,15 @@ Vollständiges Änderungsprotokoll im Micro-Change-Format.
 
 ### 2026-09-29
 
+#### 09:40 — GitHub-Stats selbst erzeugen, Fremddienste entfernt
+- **Dateien:** `scripts/stats.py`, `.github/workflows/stats.yml`, `README.md`
+- **Aktion:** Die Karten zeigten nichts an. Ursache per Workflow auf GitHub-Runnern gemessen: `github-readme-stats.vercel.app` antwortet 503 `DEPLOYMENT_PAUSED`, `nirzak-streak-stats.vercel.app` 402 `DEPLOYMENT_DISABLED`. Neu: `scripts/stats.py` liest die Daten über die GitHub-GraphQL-API und schreibt Aktivitäts- und Sprachkarte als SVG (hell/dunkel); der Workflow läuft täglich und legt die Karten auf dem verwaisten Branch `stats` ab. README bindet sie per `<picture>` passend zum Farbschema ein.
+- **Ergebnis:** OK
+- **Verifikation:** Streak-Logik mit Testfällen geprüft; Workflow-Lauf 1 erfolgreich, Karten auf `stats` abrufbar und in Chromium hell/dunkel gerendert
+- **Nächster Schritt:** Nach dem Merge in `main` läuft der Zeitplan täglich um 03:17 UTC
+- **Blocker:** –
+- **Weiter bei:** –
+
 #### 08:15 — Schreibweise andicode.de und Preceptly-Beschreibung korrigiert
 - **Dateien:** README.md
 - **Aktion:** „AndiCode.de“ durchgehend als „andicode.de“ geschrieben (auf Wunsch von Andreas); Badge-Zeile im Kopf auf Stil `plastic` umgestellt, weil `for-the-badge` alles in Großbuchstaben setzt; „public booking“ bei Preceptly entfernt, die öffentliche Buchungsseite ist laut PRD seit 24.09.2026 entfernt, gebucht wird über das Portal

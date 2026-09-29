@@ -109,12 +109,16 @@ Single-page website for my freelance web development services, past projects and
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=andreaseirich&show_icons=true&theme=dark" alt="GitHub stats of andreaseirich" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaseirich&theme=dark&layout=compact" alt="Most used languages of andreaseirich" height="165">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreaseirich/andreaseirich/stats/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/andreaseirich/andreaseirich/stats/activity-light.svg" alt="GitHub activity of andreaseirich: contributions, streaks, public repositories and stars">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreaseirich/andreaseirich/stats/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/andreaseirich/andreaseirich/stats/languages-light.svg" alt="Most used languages in the public repositories of andreaseirich">
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=andreaseirich&theme=dark" alt="GitHub contribution streak of andreaseirich">
-
-<sub>The cards only count public repositories; several projects, including client work, live in private ones.</sub>
+<sub>Generated daily by a GitHub Action straight from the GitHub API (<code>scripts/stats.py</code>). Languages and stars cover public repositories only; several projects, including client work, live in private ones.</sub>
 
 ## 💰 Support
 

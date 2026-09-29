@@ -25,19 +25,6 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Check third-party card services (temporary diagnostic)
-        continue-on-error: true
-        run: |
-          for url in \
-            "https://github-readme-stats.vercel.app/api?username=andreaseirich&theme=dark" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=andreaseirich&theme=dark&layout=compact" \
-            "https://nirzak-streak-stats.vercel.app/?user=andreaseirich&theme=dark" \
-            "https://streak-stats.demolab.com/?user=andreaseirich&theme=dark"; do
-            code=$(curl -s -o body.txt -m 30 -w '%{http_code} %{content_type}' "$url" || echo "curl-failed")
-            echo "== $code  $url"
-            head -c 400 body.txt | tr '\n' ' '; echo
-          done
-
       - name: Render cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
