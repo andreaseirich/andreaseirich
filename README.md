@@ -3,9 +3,9 @@
 **Full-stack developer (Python & Django)** and **B.Sc. student in Robotics & AI** at IU International University.
 I design, build and run web applications end to end — mostly solo, from the data model to deployment.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://andreaseirich.github.io)
-[![AndiCode.de](https://img.shields.io/badge/AndiCode.de-1E3A8A?style=for-the-badge)](https://andicode.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/andreas-eirich)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=plastic&logo=githubpages&logoColor=white)](https://andreaseirich.github.io)
+[![andicode.de](https://img.shields.io/badge/andicode.de-1E3A8A?style=plastic)](https://andicode.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/andreas-eirich)
 
 ## 💫 About Me
 
@@ -14,7 +14,7 @@ I design, build and run web applications end to end — mostly solo, from the da
 - 🐍 Backend: Python & Django — service layer, REST endpoints, WebSockets with Django Channels
 - 🌐 Frontend: Django templates, vanilla JavaScript, Tailwind CSS and UI logic
 - 🤖 B.Sc. student in Robotics & AI (distance learning, IU International University)
-- 💼 Freelance web development under [AndiCode.de](https://andicode.de)
+- 💼 Freelance web development under [andicode.de](https://andicode.de)
 - 📐 Math tutor up to Abitur level
 - 🖥️ Linux, Raspberry Pi, automation & self-hosting
 - 🧠 Systems thinking — clarity over complexity
@@ -25,7 +25,7 @@ I design, build and run web applications end to end — mostly solo, from the da
 
 ### 📅 [Preceptly](https://github.com/andreaseirich/preceptly) — tutoring management platform
 
-Scheduling with conflict detection (time overlaps, travel time, contract quotas), invoicing with PDF export, public booking, a parent/student portal, video lessons, calendar sync and optional AI-assisted lesson plans. Started as a CodeCraze Hackathon 2025 submission and now runs live with Stripe subscriptions.
+Scheduling with conflict detection (time overlaps, travel time, contract quotas), invoicing with PDF export, a parent/student portal with online booking, video lessons, calendar sync and optional AI-assisted lesson plans. Started as a CodeCraze Hackathon 2025 submission and now runs live with Stripe subscriptions.
 
 **Stack:** Django · PostgreSQL · Django Channels & Redis · WebRTC · Stripe · Docker · Railway<br>
 🌐 [preceptly.de](https://preceptly.de) · 🎥 [Demo video](https://youtu.be/YUsSuPgR1XQ) · 📄 [Case study](https://andreaseirich.github.io/preceptly.html)
@@ -51,7 +51,7 @@ Static, GDPR-compliant website for a bicycle shop in Lower Saxony: no cookies or
 **Stack:** HTML · CSS · JavaScript<br>
 🌐 [radhuus-nortrup.de](https://radhuus-nortrup.de) · 📄 [Case study](https://andreaseirich.github.io/radhuus-nortrup.html)
 
-### 💻 AndiCode.de — freelance website
+### 💻 andicode.de — freelance website
 
 Single-page website for my freelance web development services, past projects and tech stack.
 
